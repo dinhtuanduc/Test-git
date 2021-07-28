@@ -1,2 +1,3 @@
 Đây là file .txt
 Thêm đồng thời từ local repo vs remote repo
+Thêm ở remote repo
